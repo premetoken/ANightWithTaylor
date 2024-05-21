@@ -10,7 +10,7 @@
   "SYMBOL": "TAYLOR",
   "MAX_SUPPLY": 500,
   "WEI_COST": 28000000000000000,
-  "DISPLAY_COST": 0.035,
+  "DISPLAY_COST": 0.028,
   "GAS_LIMIT": 100000,
   "MARKETPLACE": "Rarible.com",
   "MARKETPLACE_LINK": "https://rarible.com/ANightWithTaylor/",
