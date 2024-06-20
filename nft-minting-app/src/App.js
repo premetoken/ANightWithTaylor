@@ -162,8 +162,8 @@ function App() {
 
   const incrementMintAmount = () => {
     let newMintAmount = mintAmount + 1;
-    if (newMintAmount > 200 - Number(data.totalSupply)) {
-      newMintAmount = 200 - Number(data.totalSupply);
+    if (newMintAmount > CONFIG.MAX_SUPPLY - Number(data.totalSupply)) {
+      newMintAmount = CONFIG.MAX_SUPPLY - Number(data.totalSupply);
     }
     setMintAmount(newMintAmount);
   };
