@@ -403,7 +403,7 @@ function App() {
               textAlign: "left",
               color: "var(--primary-text)",
             }}>
-<p>Each NFT costs about $100 in ETH and there are max. 200 entries.</p>
+<p>Each NFT costs about $100 in ETH and there are max. 195 entries.</p>
 <p>Grand prize is 3 VIP tickets to Taylor Swifts The Eras Tour - Section 121 - August 15th 2024 - Wembley Stadium, London, England.</p>
 <p>Winner cannot resale tickets.</p>
 <p>Random winner will be chosen on July 15th 2024.</p>
