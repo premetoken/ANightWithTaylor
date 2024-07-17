@@ -8,7 +8,7 @@
   },
   "NFT_NAME": "A Night With Taylor",
   "SYMBOL": "TAYLOR",
-  "MAX_SUPPLY": 195,
+  "MAX_SUPPLY": 178,
   "WEI_COST": 30000000000000000,
   "DISPLAY_COST": 0.03,
   "GAS_LIMIT": 100000,
